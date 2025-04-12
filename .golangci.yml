@@ -8,7 +8,7 @@ linters-settings:
     sections:
       - "standard"
       - "default"
-      - "prefix(github.com/goccy/go-yaml)"
+      - "prefix(github.com/staspiter/go-yaml)"
       - "blank"
       - "dot"
   gofmt:

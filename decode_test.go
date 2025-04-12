@@ -14,10 +14,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/goccy/go-yaml"
-	"github.com/goccy/go-yaml/ast"
-	"github.com/goccy/go-yaml/internal/errors"
-	"github.com/goccy/go-yaml/parser"
+	"github.com/staspiter/go-yaml"
+	"github.com/staspiter/go-yaml/ast"
+	"github.com/staspiter/go-yaml/internal/errors"
+	"github.com/staspiter/go-yaml/parser"
 )
 
 type Child struct {

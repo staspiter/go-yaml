@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/goccy/go-yaml/token"
+	"github.com/staspiter/go-yaml/token"
 )
 
 // Context context at scanning

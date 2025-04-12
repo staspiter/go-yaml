@@ -4,7 +4,7 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/goccy/go-yaml/ast"
+	"github.com/staspiter/go-yaml/ast"
 )
 
 // DecodeOption functional option type for Decoder

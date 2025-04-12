@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/goccy/go-yaml"
+	"github.com/staspiter/go-yaml"
 )
 
 func FuzzUnmarshalToMap(f *testing.F) {
